@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+body {
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%; }
+
+img {
+  max-width: 100%; }
+
+.container {
+  max-width: 120rem;
+  margin: 0 auto; }
